@@ -1,1 +1,18 @@
 name: Chersak Kingkan
+# Site settings
+title: Chersak Kingkan blog
+email: 
+description: ""
+baseurl: ""
+url: "http://ckingkan.github.io"
+github_username:  ckingkan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
